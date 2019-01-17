@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/nj/IdeaProjects/OrderRevenue/target/scala-2.11/orderrevenue_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OrderRevenue.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nj/IdeaProjects/OrderRevenue/target/scala-2.11/classes/OrderRevenue.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OrderRevenue$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nj/IdeaProjects/OrderRevenue/target/scala-2.11/classes/OrderRevenue$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OrderRevenue$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nj/IdeaProjects/OrderRevenue/target/scala-2.11/classes/OrderRevenue$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OrderRevenue$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nj/IdeaProjects/OrderRevenue/target/scala-2.11/classes/OrderRevenue$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OrderRevenue$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nj/IdeaProjects/OrderRevenue/target/scala-2.11/classes/OrderRevenue$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OrderRevenue$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nj/IdeaProjects/OrderRevenue/target/scala-2.11/classes/OrderRevenue$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OrderRevenue$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nj/IdeaProjects/OrderRevenue/target/scala-2.11/classes/OrderRevenue$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OrderRevenue$$anonfun$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nj/IdeaProjects/OrderRevenue/target/scala-2.11/classes/OrderRevenue$$anonfun$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OrderRevenue$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nj/IdeaProjects/OrderRevenue/target/scala-2.11/classes/OrderRevenue$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OrderRevenue$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nj/IdeaProjects/OrderRevenue/target/scala-2.11/classes/OrderRevenue$$anonfun$5.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
